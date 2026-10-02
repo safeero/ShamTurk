@@ -1,5 +1,5 @@
 name: shamtur_scan
-description: "ShamturScan Vehicle Diagnostic App"
+description: "ShamturScan Vehicle Diagnostic & Programming App"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -14,7 +14,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
 
 flutter:
   uses-material-design: true
